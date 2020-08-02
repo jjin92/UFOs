@@ -7,6 +7,7 @@ Use JavaScript, HTML, CSS and Bootstrap to create a website with a dynamic data 
 ## Resources
 *Data resource*
 - [UFO sightings record in JavaScript](https://github.com/jjin92/UFOs/blob/master/static/js/app.js)
+
 *Software*
 - JavaScript, D3, HTML, CSS, Bootstrap
 
@@ -15,4 +16,5 @@ Use JavaScript, HTML, CSS and Bootstrap to create a website with a dynamic data 
 ## Further development
 
 ## Website Preview
+The screenshot below shows the search result with four filters applied.
 ![website_preview](https://github.com/jjin92/UFOs/blob/master/preview.png)
